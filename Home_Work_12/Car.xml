@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Cars>
   <Car mark = "Lexus">
-    <Model>LX 570</Model>
+    <Brand>LX 570</Brand>
     <Color>Pink</Color>
     <Potencia>4.5</Potencia>
     <Year>2019</Year>
